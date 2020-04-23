@@ -1,0 +1,292 @@
+{
+  "ID": "4d1da2ac-a54f-499c-ba4e-394b4bb4e8d5",
+  "Version": "2.3.0.1",
+  "Name": "gol_success",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/g2.png",
+              "Plist": ""
+            },
+            "Scale9Width": 339,
+            "Scale9Height": 218,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 467.0172,
+              "Y": 324.6367
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4865,
+              "Y": 0.5072
+            },
+            "PreSize": {
+              "X": 0.3531,
+              "Y": 0.3406
+            },
+            "LeftMargin": 297.5172,
+            "RightMargin": 323.4828,
+            "TopMargin": 206.3633,
+            "BottomMargin": 215.6367,
+            "Tag": 948,
+            "ActionTag": 938843021,
+            "Size": {
+              "X": 339.0,
+              "Y": 218.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/g6.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 37,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 557.0,
+              "Y": 292.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5802,
+              "Y": 0.4563
+            },
+            "PreSize": {
+              "X": 0.0969,
+              "Y": 0.0922
+            },
+            "LeftMargin": 510.5,
+            "RightMargin": 356.5,
+            "TopMargin": 318.5,
+            "BottomMargin": 262.5,
+            "Tag": 11,
+            "ActionTag": 816164674,
+            "Size": {
+              "X": 93.0,
+              "Y": 59.0
+            },
+            "Name": "b3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/g4.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 37,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.0,
+              "Y": 292.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3979,
+              "Y": 0.4563
+            },
+            "PreSize": {
+              "X": 0.0969,
+              "Y": 0.0922
+            },
+            "LeftMargin": 335.5,
+            "RightMargin": 531.5,
+            "TopMargin": 318.5,
+            "BottomMargin": 262.5,
+            "Tag": 12,
+            "ActionTag": -2104306450,
+            "Size": {
+              "X": 93.0,
+              "Y": 59.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/g5.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 37,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 467.0,
+              "Y": 293.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4865,
+              "Y": 0.4578
+            },
+            "PreSize": {
+              "X": 0.0969,
+              "Y": 0.0922
+            },
+            "LeftMargin": 420.5,
+            "RightMargin": 446.5,
+            "TopMargin": 317.5,
+            "BottomMargin": 263.5,
+            "Tag": 13,
+            "ActionTag": -1618301767,
+            "Size": {
+              "X": 93.0,
+              "Y": 59.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "guoguan/img/g5.png",
+        "Default/Button_Disable.png",
+        "guoguan/img/g4.png",
+        "guoguan/img/g6.png",
+        "guoguan/img/g2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

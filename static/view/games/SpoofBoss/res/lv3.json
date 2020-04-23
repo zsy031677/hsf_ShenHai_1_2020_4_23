@@ -1,0 +1,452 @@
+{
+  "ID": "b3e2db7c-7c9c-4e09-98f9-f575c13a0903",
+  "Version": "2.3.0.1",
+  "Name": "lv3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 53,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level3/no3/31.png",
+              "Plist": ""
+            },
+            "Scale9Width": 973,
+            "Scale9Height": 641,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 475.4257,
+              "Y": 328.8983
+            },
+            "Scale": {
+              "ScaleX": 1.0162,
+              "ScaleY": 1.0162
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4952,
+              "Y": 0.5139
+            },
+            "PreSize": {
+              "X": 1.0135,
+              "Y": 1.0016
+            },
+            "LeftMargin": -11.0743,
+            "RightMargin": -1.9257,
+            "TopMargin": -9.3983,
+            "BottomMargin": 8.3983,
+            "Tag": 54,
+            "ActionTag": -331066300,
+            "Size": {
+              "X": 973.0,
+              "Y": 641.0
+            },
+            "Name": "beijing",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "laoban.ExportJson",
+              "Plist": ""
+            },
+            "IsLoop": true,
+            "IsAutoPlay": true,
+            "CurrentAnimationName": "du",
+            "AnchorPoint": {},
+            "Position": {
+              "X": 721.0941,
+              "Y": 24.6089
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7511,
+              "Y": 0.0385
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 721.0941,
+            "RightMargin": 238.9059,
+            "TopMargin": 615.3911,
+            "BottomMargin": 24.6089,
+            "Tag": 55,
+            "ActionTag": 1044049790,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "laoban",
+            "ctype": "ArmatureNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level3/no3/319.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 28,
+            "Scale9Height": 122,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.1141,
+              "Y": 309.656
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2074,
+              "Y": 0.4838
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.225
+            },
+            "LeftMargin": 175.1141,
+            "RightMargin": 736.8859,
+            "TopMargin": 258.344,
+            "BottomMargin": 237.656,
+            "Tag": 223,
+            "ActionTag": -555650338,
+            "Size": {
+              "X": 48.0,
+              "Y": 144.0
+            },
+            "Name": "b4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "yuangong.ExportJson",
+              "Plist": ""
+            },
+            "IsLoop": true,
+            "IsAutoPlay": true,
+            "CurrentAnimationName": "yuangonghejiu",
+            "AnchorPoint": {},
+            "Position": {
+              "X": 235.4151,
+              "Y": 24.6102
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2452,
+              "Y": 0.0385
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 235.4151,
+            "RightMargin": 724.5849,
+            "TopMargin": 615.3898,
+            "BottomMargin": 24.6102,
+            "Tag": 56,
+            "ActionTag": 413717303,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "yuangong",
+            "ctype": "ArmatureNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level3/no3/36.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 122,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 420.0714,
+              "Y": 343.0867
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4376,
+              "Y": 0.5361
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.225
+            },
+            "LeftMargin": 403.5714,
+            "RightMargin": 523.4286,
+            "TopMargin": 224.9133,
+            "BottomMargin": 271.0867,
+            "Tag": 222,
+            "ActionTag": -1404024543,
+            "Size": {
+              "X": 33.0,
+              "Y": 144.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level3/no3/37.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 11,
+            "Scale9Width": 11,
+            "Scale9Height": 64,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 870.1858,
+              "Y": 72.0475
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9064,
+              "Y": 0.1126
+            },
+            "PreSize": {
+              "X": 0.0302,
+              "Y": 0.1344
+            },
+            "LeftMargin": 855.6858,
+            "RightMargin": 75.3142,
+            "TopMargin": 524.9525,
+            "BottomMargin": 29.0475,
+            "Tag": 224,
+            "ActionTag": -813172626,
+            "Size": {
+              "X": 29.0,
+              "Y": 86.0
+            },
+            "Name": "b3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level3/no3/32.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 11,
+            "Scale9Width": 28,
+            "Scale9Height": 122,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 543.7921,
+              "Y": 326.4754
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5665,
+              "Y": 0.5101
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.225
+            },
+            "LeftMargin": 519.7921,
+            "RightMargin": 392.2079,
+            "TopMargin": 241.5246,
+            "BottomMargin": 254.4754,
+            "Tag": 225,
+            "ActionTag": -1260625793,
+            "Size": {
+              "X": 48.0,
+              "Y": 144.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "level3/no3/32.png",
+        "level3/no3/36.png",
+        "level3/no3/319.png",
+        "Default/Button_Disable.png",
+        "level3/no3/37.png",
+        "level3/no3/31.png",
+        "yuangong0.png",
+        "yuangong0.plist",
+        "yuangong.ExportJson",
+        "laoban0.png",
+        "laoban0.plist",
+        "laoban.ExportJson"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html amp lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="amp-script-src" content="sha384-5WS2CTEp8qe6hA_SPgHd7cEugxaPnfTZdBpn4rcOdR0w0ak241vjH0CIc3rrnAaj">
+
+    <title>Document</title>
+    <link rel="canonical" href="index.amp.html">
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            background: #f5f5f5;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        .all {
+            max-width: 375px;
+            min-height: 100%;
+            margin: 0 auto;
+            padding: 0 15px;
+            box-sizing: border-box;
+        }
+
+        .head-title {
+            width: 100%;
+            height: 18px;
+            line-height: 18px;
+            font-size: 18px;
+            font-weight: 800;
+            text-align: center;
+            padding: 18px 0 14px 0;
+        }
+
+        .banner {
+            width: 100%;
+            /* height: 200px; */
+            box-sizing: border-box;
+        }
+        .banner amp-img{
+            border-radius: 5px;
+        }
+
+        .amp-carousel {
+            width: inherit;
+            /* height: 200px; */
+        }
+
+        .amp-carousel amp-img {
+            width: 100%;
+            /* height: inherit; */
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .hottest {
+            width: 100%;
+            background: #fff;
+            margin: 15px 0 5px 0;
+            border-radius: 13px;
+        }
+
+        .hot-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 25px;
+            padding: 0 15px;
+        }
+
+        .hot-title {
+            font-size: 16px;
+            font-weight: bold;
+            overflow: hidden
+        }
+
+        .hot-content {
+            width: 100%;
+        }
+
+        .hot-top {
+            width: 100%;
+            /* height: 150px; */
+            margin-bottom: 5px;
+        }
+
+        .hot-top amp-img {
+            width: 100%;
+            height: 125px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .hot-top-flex {
+            position: relative;
+            top: -4px;
+            /* height: 25px; */
+            line-height: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 16px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+        }
+
+        .hot-bottom-flex {
+            display: flex;
+            width: 100%;
+        }
+
+        .hot-bottom-first {
+            width: 100%;
+            /* height: 190px; */
+            margin-right: 10px;
+        }
+
+        .hot-bottom-second {
+            width: 100%;
+            /* height: 190px; */
+        }
+
+        .hot-bottom-first amp-img {
+            width: inherit;
+            height: 165px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .hot-bottom-second amp-img {
+            width: inherit;
+            height: 165px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .hot-bottom-title {
+            position: relative;
+            top: -4px;
+            /* height: 25px; */
+            line-height: 25px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+            text-align: center;
+            /* overflow:hidden */
+        }
+
+        .new-first {
+            width: 100%;
+            height: 130px;
+            margin-bottom: 5px;
+        }
+
+        .new-first amp-img {
+            position: relative;
+            left: 10px;
+            z-index: 2;
+            width: 50%;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        .new-first-bg {
+            position: relative;
+            top: -114px;
+            z-index: 1;
+            width: 100%;
+            height: 120px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 1px 3px 0px rgba(17, 17, 17, 0.12);
+        }
+
+        .new-first-right {
+            position: relative;
+            left: 57%;
+            width: 43%;
+            padding: 14.5px 0 17px 0;
+        }
+
+        .new-first-title {
+            height: 14px;
+            line-height: 14px;
+            font-size: 14px;
+            /* overflow:hidden */
+        }
+
+        .new-first-bottom {
+            width: 50px;
+            height: 20px;
+            line-height: 20px;
+            background: rgba(87, 208, 222, 1);
+            border-radius: 10px;
+            font-size: 12px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .list-content {
+            width: 100%;
+            height: 186px;
+            margin-bottom: 40px;
+        }
+
+        .list-flex {
+            display: flex;
+            width: 100%;
+        }
+
+        .list-first {
+            position: relative;
+            top: 40px;
+            width: 100%;
+            height: 146px;
+            margin-right: 7.5px;
+        }
+
+        .list-first amp-img {
+            width: inherit;
+            height: 126px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .list-first-title {
+            position: relative;
+            top: -4px;
+            /* height: 20px; */
+            line-height: 20px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+            text-align: center;
+            /* overflow:hidden */
+        }
+
+        .list-second {
+            width: 100%;
+            height: 146px;
+        }
+
+        .list-second amp-img {
+            width: inherit;
+            height: 126px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .list-second-title {
+            position: relative;
+            top: -4px;
+            /* height: 20px; */
+            line-height: 20px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+            text-align: center;
+            /* overflow:hidden */
+        }
+
+        .list-third {
+            position: relative;
+            top: 40px;
+            width: 100%;
+            height: 146px;
+            margin-left: 7.5px;
+        }
+
+        .list-third amp-img {
+            width: inherit;
+            height: 126px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .list-third-title {
+            position: relative;
+            top: -4px;
+            /* height: 20px; */
+            line-height: 20px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+            text-align: center;
+            /* overflow:hidden */
+        }
+    </style>
+
+
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async custom-element="amp-script" src="https://cdn.ampproject.org/v0/amp-script-0.1.js"></script>
+
+</head>
+
+<body>
+    <amp-script layout="container" src="https://cdn.bootcss.com/jquery/2.2.1/jquery.js">
+    </amp-script>
+    <div class="all">
+        <div class="head-title">Game Home Page</div>
+        <div class="banner">
+
+            <amp-carousel width="300" height="169" type="slides" layout="responsive" autoplay delay="2000">
+                <a href="static/view/gameDetail/detail_FootballTricks.amp.html">
+                    <amp-img class="banner1" width="300" height="169"
+                        src="./static/view/games/FootballTricks/images/detail/detail_2.png" layout="responsive"
+                        alt="Football Tricks"></amp-img>
+                </a>
+                <a href="static/view/gameDetail/detail_LightningFighter.amp.html">
+                    <amp-img width="300" height="169"
+                        src="./static/view/games/LightningFighter/images/detail/detail_2.png" layout="responsive"
+                        alt="Lightning Fighter"></amp-img>
+                </a>
+                <a href="static/view/gameDetail/detail_MonsterRampace.amp.html">
+                    <amp-img width="300" height="169"
+                        src="./static/view/games/MonsterRampace/images/detail/detail_2.png" layout="responsive"
+                        alt="Monster Rampace">
+                    </amp-img>
+                </a>
+            </amp-carousel>
+
+        </div>
+
+
+
+        <!-- hottest模块 -->
+        <div class="hottest">
+            <div class="hot-flex">
+                <div class="hot-title">Hottest</div>
+                <div style="font-size: 15px;color: #000;"><a href="static/view/moreGame/list_Hottest.amp.html">More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="hot-content">
+            <div class="hot-top">
+                <a href="static/view/gameDetail/detail_YoungSanta1.amp.html">
+                    <amp-img width="128" height="128" layout="responsive"
+                        src="./static/view/games/YoungSanta1/images/icon.png" alt=""></amp-img>
+                    <div class="hot-top-flex">
+                        <div class="hot-top-title">Young santa 1</div>
+                        <div>Detail</div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="hot-bottom">
+                <div class="hot-bottom-flex">
+                    <div class="hot-bottom-first">
+                        <a href="static/view/gameDetail/detail_RabbitJumping.amp.html">
+                            <amp-img width="128" height="128" layout="responsive"
+                                src="./static/view/games/RabbitJumping/images/icon.png" alt=""></amp-img>
+                            <div class="hot-bottom-title">Rabbit Jumping</div>
+                        </a>
+                    </div>
+                    <div class="hot-bottom-second">
+                        <a href="static/view/gameDetail/detail_PictureLearning.amp.html">
+                            <amp-img width="128" height="128" layout="responsive"
+                                src="./static/view/games/PictureLearning/images/icon.png" alt=""></amp-img>
+                            <div class="hot-bottom-title">Picture Learning</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- New模块 -->
+        <div class="hottest">
+            <div class="hot-flex">
+                <div class="hot-title">New</div>
+                <div style="font-size: 15px;color: #000;"><a href="static/view/moreGame/list_Newest.amp.html">More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="new-content">
+            <div class="new-first">
+                <a href="static/view/gameDetail/detail_DesertIsland.amp.html">
+                    <amp-img width="128" height="128" layout="responsive"
+                        src="./static/view/games/DesertIsland/images/icon.png" alt=""></amp-img>
+                    <div class="new-first-bg">
+                        <div class="new-first-right">
+                            <div class="new-first-title">Desert Is land</div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin-top: 15px;overflow:hidden;">
+                                Tag: Cut the rope
+                            </div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin: 5px 0 15px 0;overflow:hidden;">
+                                1200+</div>
+                            <div class="new-first-bottom">Detail</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="new-first">
+                <a href="static/view/gameDetail/detail_NarutoParkour.amp.html">
+                    <amp-img width="128" height="128" layout="responsive"
+                        src="./static/view/games/NarutoParkour/images/icon.png" alt=""></amp-img>
+                    <div class="new-first-bg">
+                        <div class="new-first-right">
+                            <div class="new-first-title">Naruto Parkour</div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin-top: 15px;overflow:hidden;">
+                                Tag: Cut the rope
+                            </div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin: 5px 0 15px 0;overflow:hidden;">
+                                1200+</div>
+                            <div class="new-first-bottom">Detail</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="new-first">
+                <a href="static/view/gameDetail/detail_PenguinCombat.amp.html">
+                    <amp-img width="128" height="128" layout="responsive"
+                        src="./static/view/games/PenguinCombat/images/icon.png" alt=""></amp-img>
+                    <div class="new-first-bg">
+                        <div class="new-first-right">
+                            <div class="new-first-title">Penguin Combat</div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin-top: 15px;overflow:hidden;">
+                                Tag: Cut the rope
+                            </div>
+                            <div
+                                style="height:11px;line-height: 11px;font-size: 11px;margin: 5px 0 15px 0;overflow:hidden;">
+                                1200+</div>
+                            <div class="new-first-bottom">Detail</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Popular模块 -->
+        <div class="hottest">
+            <div class="hot-flex">
+                <div class="hot-title">Popular</div>
+                <div style="font-size: 15px;color: #000;"><a href="static/view/moreGame/list_Popular.amp.html">More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="list-content">
+            <div class="list-flex">
+                <div class="list-first">
+                    <a href="static/view/gameDetail/detail_RebelThumb.amp.html">
+                        <amp-img width="128" height="128" layout="responsive"
+                            src="./static/view/games/RebelThumb/images/icon.png" alt=""></amp-img>
+                        <div class="list-first-title">Rebel Thumb</div>
+                    </a>
+                </div>
+                <div class="list-second">
+                    <a href="static/view/gameDetail/detail_SlidingFlight.amp.html">
+                        <amp-img width="128" height="128" layout="responsive"
+                            src="./static/view/games//SlidingFlight/images/icon.png" alt=""></amp-img>
+                        <div class="list-second-title">Sliding Flight</div>
+                    </a>
+                </div>
+                <div class="list-third">
+                    <a href="static/view/gameDetail/detail_ShootWolf.amp.html">
+                        <amp-img width="128" height="128" layout="responsive"
+                            src="./static/view/games/ShootWolf/images/icon.png" alt=""></amp-img>
+                        <div class="list-third-title">Shoot Wolf</div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>

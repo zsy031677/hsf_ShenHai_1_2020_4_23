@@ -1,0 +1,1 @@
+function play68_submitScore(e){updateShareScore(e),Play68.shareFriend()}function updateShare(e){shareTitle=e>0?"#迷失#我闯过了第"+e+"关，在迷失的荒岛为生存而战吧！":"#迷失#在迷失的荒岛为生存而战吧！",appid="",Play68.setShareInfo(shareTitle,"迷失")}

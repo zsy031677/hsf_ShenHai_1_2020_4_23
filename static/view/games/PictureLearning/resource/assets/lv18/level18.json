@@ -1,0 +1,10 @@
+{
+	"desc":"none",
+	"dataList":[
+		{"name":"money"},
+		{"name":"meter"},
+		{"name":"inch"},
+		{"name":"hundred"},
+		{"name":"thousand"}
+	]
+}

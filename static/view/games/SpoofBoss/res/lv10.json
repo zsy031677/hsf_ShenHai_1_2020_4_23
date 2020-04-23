@@ -1,0 +1,351 @@
+{
+  "ID": "14b1bc15-a9b6-4863-9bde-e17547876e4b",
+  "Version": "2.3.0.1",
+  "Name": "lv10",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 146,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level10/no10/106.png",
+              "Plist": ""
+            },
+            "Scale9Width": 962,
+            "Scale9Height": 640,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 473.2315,
+              "Y": 327.6508
+            },
+            "Scale": {
+              "ScaleX": 1.0405,
+              "ScaleY": 1.0221
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4929,
+              "Y": 0.512
+            },
+            "PreSize": {
+              "X": 1.0021,
+              "Y": 1.0
+            },
+            "LeftMargin": -7.7685,
+            "RightMargin": 5.7685,
+            "TopMargin": -7.6508,
+            "BottomMargin": 7.6508,
+            "Tag": 147,
+            "ActionTag": -788685704,
+            "Size": {
+              "X": 962.0,
+              "Y": 640.0
+            },
+            "Name": "bejjing",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level10/no10/104.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 523.9772,
+              "Y": 231.5193
+            },
+            "Scale": {
+              "ScaleX": 0.7893,
+              "ScaleY": 0.7893
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5458,
+              "Y": 0.3617
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 93.9772,
+            "RightMargin": 6.0228,
+            "TopMargin": 130.9807,
+            "BottomMargin": -45.9807,
+            "Tag": 164,
+            "ActionTag": 1215175353,
+            "Size": {
+              "X": 860.0,
+              "Y": 555.0
+            },
+            "Name": "baoza",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level10/no10/107.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 229,
+            "Scale9Height": 102,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.8939,
+              "Y": 208.1212
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.378,
+              "Y": 0.3252
+            },
+            "PreSize": {
+              "X": 0.2698,
+              "Y": 0.1937
+            },
+            "LeftMargin": 233.3939,
+            "RightMargin": 467.6061,
+            "TopMargin": 369.8788,
+            "BottomMargin": 146.1212,
+            "Tag": 255,
+            "ActionTag": 414783291,
+            "Size": {
+              "X": 259.0,
+              "Y": 124.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bos.ExportJson",
+              "Plist": ""
+            },
+            "IsLoop": true,
+            "IsAutoPlay": true,
+            "CurrentAnimationName": "zou",
+            "AnchorPoint": {},
+            "Position": {
+              "X": 660.4058,
+              "Y": 83.292
+            },
+            "Scale": {
+              "ScaleX": 0.55,
+              "ScaleY": 0.55
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6879,
+              "Y": 0.1301
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 660.4058,
+            "RightMargin": 299.5942,
+            "TopMargin": 556.708,
+            "BottomMargin": 83.292,
+            "Tag": 145,
+            "ActionTag": 2077390261,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "boss",
+            "ctype": "ArmatureNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lv10_zadan.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 0.3333,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 463.148,
+              "Y": 527.9974
+            },
+            "Scale": {
+              "ScaleX": 0.2116,
+              "ScaleY": 0.2116
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4824,
+              "Y": 0.825
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 463.148,
+            "RightMargin": 496.852,
+            "TopMargin": 112.0026,
+            "BottomMargin": 527.9974,
+            "Tag": 292,
+            "ActionTag": -1688334894,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "zadan",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level10/no10/101.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 60,
+            "Scale9Height": 25,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.4684,
+              "Y": 511.9985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0682,
+              "Y": 0.8
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0734
+            },
+            "LeftMargin": 20.4684,
+            "RightMargin": 849.5316,
+            "TopMargin": 104.5015,
+            "BottomMargin": 488.4985,
+            "Tag": 256,
+            "ActionTag": -431165227,
+            "Size": {
+              "X": 90.0,
+              "Y": 47.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "lv10_zadan.json",
+        "level10/no10/106.png",
+        "level10/no10/101.png",
+        "level10/no10/104.png",
+        "level10/no10/107.png",
+        "Default/Button_Disable.png",
+        "bos0.png",
+        "bos0.plist",
+        "bos.ExportJson"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

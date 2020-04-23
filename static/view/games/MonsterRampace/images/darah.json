@@ -1,0 +1,40 @@
+{
+"frames": {
+	"darah0001.png": {
+		"frame": {"x":26, "y":81, "w":23, "h":20},
+		"spriteSourceSize": {"x":40,"y":39,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	},
+	"darah0002.png": {
+		"frame": {"x":0, "y":81, "w":25, "h":28},
+		"spriteSourceSize": {"x":27,"y":25,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	},
+	"darah0003.png": {
+		"frame": {"x":181, "y":0, "w":58, "h":53},
+		"spriteSourceSize": {"x":14,"y":14,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	},
+	"darah0004.png": {
+		"frame": {"x":97, "y":0, "w":83, "h":77},
+		"spriteSourceSize": {"x":2,"y":0,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	},
+	"darah0005.png": {
+		"frame": {"x":0, "y":0, "w":96, "h":80},
+		"spriteSourceSize": {"x":0,"y":1,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	},
+	"darah0006.png": {
+		"frame": {"x":0, "y":0, "w":96, "h":80},
+		"spriteSourceSize": {"x":0,"y":1,"w":96,"h":81},
+		"sourceSize": {"w":96,"h":81}
+	}
+
+},
+"meta": {
+	"image": "darah.png",
+	"size": {"w": 256, "h": 128},
+	"scale": "1"
+}
+}

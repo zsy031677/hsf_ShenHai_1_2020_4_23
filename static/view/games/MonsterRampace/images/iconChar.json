@@ -1,0 +1,75 @@
+{
+"frames": {
+	"char0001.png": {
+		"frame": {"x":0, "y":1124, "w":235, "h":281},
+		"spriteSourceSize": {"x":0,"y":4,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0002.png": {
+		"frame": {"x":0, "y":843, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0003.png": {
+		"frame": {"x":0, "y":562, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0004.png": {
+		"frame": {"x":0, "y":281, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0005.png": {
+		"frame": {"x":0, "y":0, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0006.png": {
+		"frame": {"x":0, "y":1692, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0007.png": {
+		"frame": {"x":236, "y":1126, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0008.png": {
+		"frame": {"x":236, "y":845, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0009.png": {
+		"frame": {"x":236, "y":564, "w":235, "h":280},
+		"spriteSourceSize": {"x":0,"y":5,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0010.png": {
+		"frame": {"x":236, "y":286, "w":235, "h":277},
+		"spriteSourceSize": {"x":0,"y":8,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0011.png": {
+		"frame": {"x":236, "y":0, "w":235, "h":285},
+		"spriteSourceSize": {"x":0,"y":0,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0012.png": {
+		"frame": {"x":236, "y":1407, "w":235, "h":285},
+		"spriteSourceSize": {"x":0,"y":0,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	},
+	"char0013.png": {
+		"frame": {"x":0, "y":1406, "w":235, "h":285},
+		"spriteSourceSize": {"x":0,"y":0,"w":235,"h":285},
+		"sourceSize": {"w":235,"h":285}
+	}
+
+},
+"meta": {
+	"image": "iconChar.png",
+	"size": {"w": 512, "h": 2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,10 @@
+{
+	"desc":"none",
+	"dataList":[
+		{"name":"head"},
+		{"name":"hand"},
+		{"name":"nose"},
+		{"name":"mouth"},
+		{"name":"foot"}
+	]
+}

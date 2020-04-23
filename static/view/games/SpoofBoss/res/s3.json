@@ -1,0 +1,236 @@
+{
+  "ID": "53690ac3-d803-4f6d-a15d-52f94a9191f1",
+  "Version": "2.3.0.1",
+  "Name": "s3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 10,
+        "Speed": 0.1667,
+        "Timelines": [
+          {
+            "ActionTag": 1840068385,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 1378.5298,
+                "Y": -458.8228,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1074.9834,
+                "Y": -105.223,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 623.3373,
+                "Y": 316.7519,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1840068385,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0229,
+                "Y": 1.0229,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1840068385,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 178.5521,
+                "Y": 178.5135,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.4889,
+                "Y": 360.4239,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 10,
+          "Name": "animation0",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 558,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "start/img/s5.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 461.2253,
+              "Y": 318.2471
+            },
+            "Scale": {
+              "ScaleX": 1.0211,
+              "ScaleY": 1.0211
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4804,
+              "Y": 0.4973
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -22.7747,
+            "RightMargin": 14.7747,
+            "TopMargin": 1.7529,
+            "BottomMargin": -1.7529,
+            "Tag": 559,
+            "ActionTag": 1349983400,
+            "Size": {
+              "X": 968.0,
+              "Y": 640.0
+            },
+            "Name": "s5_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "start/img/s6.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 803.9957,
+              "Y": 147.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0137,
+              "ScaleY": 1.0137
+            },
+            "Rotation": 287.7142,
+            "RotationSkewX": 287.7142,
+            "RotationSkewY": 287.6597,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8375,
+              "Y": 0.2312
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 470.4957,
+            "RightMargin": -177.4957,
+            "TopMargin": 170.5381,
+            "BottomMargin": -173.5381,
+            "Tag": 560,
+            "ActionTag": 1840068385,
+            "Size": {
+              "X": 667.0,
+              "Y": 643.0
+            },
+            "Name": "s6_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "start/img/s6.png",
+        "start/img/s5.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

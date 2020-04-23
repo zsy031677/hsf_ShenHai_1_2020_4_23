@@ -1,0 +1,95 @@
+{
+"frames": {
+	"bintang0001.png": {
+		"frame": {"x":0, "y":999, "w":23, "h":17},
+		"spriteSourceSize": {"x":97,"y":97,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0002.png": {
+		"frame": {"x":24, "y":999, "w":22, "h":22},
+		"spriteSourceSize": {"x":87,"y":87,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0003.png": {
+		"frame": {"x":0, "y":949, "w":49, "h":49},
+		"spriteSourceSize": {"x":73,"y":73,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0004.png": {
+		"frame": {"x":281, "y":0, "w":77, "h":77},
+		"spriteSourceSize": {"x":59,"y":59,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0005.png": {
+		"frame": {"x":177, "y":0, "w":103, "h":103},
+		"spriteSourceSize": {"x":46,"y":46,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0006.png": {
+		"frame": {"x":170, "y":177, "w":129, "h":129},
+		"spriteSourceSize": {"x":33,"y":33,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0007.png": {
+		"frame": {"x":0, "y":511, "w":147, "h":147},
+		"spriteSourceSize": {"x":24,"y":24,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0008.png": {
+		"frame": {"x":0, "y":347, "w":163, "h":163},
+		"spriteSourceSize": {"x":16,"y":16,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0009.png": {
+		"frame": {"x":0, "y":177, "w":169, "h":169},
+		"spriteSourceSize": {"x":13,"y":13,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0010.png": {
+		"frame": {"x":0, "y":0, "w":176, "h":176},
+		"spriteSourceSize": {"x":10,"y":10,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0011.png": {
+		"frame": {"x":164, "y":347, "w":135, "h":135},
+		"spriteSourceSize": {"x":30,"y":30,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0012.png": {
+		"frame": {"x":148, "y":511, "w":137, "h":137},
+		"spriteSourceSize": {"x":29,"y":29,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0013.png": {
+		"frame": {"x":146, "y":659, "w":139, "h":139},
+		"spriteSourceSize": {"x":28,"y":28,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0014.png": {
+		"frame": {"x":144, "y":805, "w":141, "h":141},
+		"spriteSourceSize": {"x":27,"y":27,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0015.png": {
+		"frame": {"x":0, "y":805, "w":143, "h":143},
+		"spriteSourceSize": {"x":26,"y":26,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0016.png": {
+		"frame": {"x":0, "y":659, "w":145, "h":145},
+		"spriteSourceSize": {"x":25,"y":25,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	},
+	"bintang0017.png": {
+		"frame": {"x":0, "y":999, "w":23, "h":17},
+		"spriteSourceSize": {"x":97,"y":97,"w":194,"h":194},
+		"sourceSize": {"w":194,"h":194}
+	}
+
+},
+"meta": {
+	"image": "bintang.png",
+	"size": {"w": 512, "h": 1024},
+	"scale": "1"
+}
+}

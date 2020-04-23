@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>Monster Rampace</title>
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+	<script type="text/javascript" src="./lib/howler.min.js"></script>
+	<script type="text/javascript" src="./lib/pako.min.js"></script>
+	<script type="text/javascript" src="./monster_rampage.js"></script>
+	
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, false);
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
+	
+	<style>
+		html,body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+		#openfl-content { background: #000000; width: 100%; height: 100%; }
+		
+		@font-face {
+			font-family: 'Fredoka One';
+			src: url('fonts/FredokaOne-Regular.eot');
+			src: url('fonts/FredokaOne-Regular.eot?#iefix') format('embedded-opentype'),
+			url('fonts/FredokaOne-Regular.svg#my-font-family') format('svg'),
+			url('fonts/FredokaOne-Regular.woff') format('woff'),
+			url('fonts/FredokaOne-Regular.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'GosmickSans';
+			src: url('fonts/GosmickSans.eot');
+			src: url('fonts/GosmickSans.eot?#iefix') format('embedded-opentype'),
+			url('fonts/GosmickSans.svg#my-font-family') format('svg'),
+			url('fonts/GosmickSans.woff') format('woff'),
+			url('fonts/GosmickSans.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'NicknameDEMO';
+			src: url('fonts/nickname-demo.eot');
+			src: url('fonts/nickname-demo.eot?#iefix') format('embedded-opentype'),
+			url('fonts/nickname-demo.svg#my-font-family') format('svg'),
+			url('fonts/nickname-demo.woff') format('woff'),
+			url('fonts/nickname-demo.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'Prototype';
+			src: url('fonts/Prototype.eot');
+			src: url('fonts/Prototype.eot?#iefix') format('embedded-opentype'),
+			url('fonts/Prototype.svg#my-font-family') format('svg'),
+			url('fonts/Prototype.woff') format('woff'),
+			url('fonts/Prototype.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+		}
+	</style>
+	
+</head>
+<body>
+	
+	<noscript>This webpage makes extensive use of JavaScript. Please enable JavaScript in your web browser to view this page.</noscript>
+	
+	<div id="openfl-content"></div>
+	
+	<script type="text/javascript">
+		lime.embed ("monster_rampage", "openfl-content", 0, 0, { parameters: {} });
+	</script>
+	
+</body>
+</html>

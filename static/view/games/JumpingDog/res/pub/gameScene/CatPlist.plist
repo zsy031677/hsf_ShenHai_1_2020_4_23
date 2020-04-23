@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cat0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,145},{52,71}}</string>
+				<key>offset</key>
+				<string>{-2,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,76}</string>
+			</dict>
+			<key>cat1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,72},{62,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,76}</string>
+			</dict>
+			<key>cat2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{66,72}}</string>
+				<key>offset</key>
+				<string>{-2,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,76}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CatPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>CatPlist.png</string>
+			<key>size</key>
+			<string>{66,216}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>66</integer>
+			<key>height</key>
+			<integer>216</integer>
+		</dict>
+	</dict>
+</plist>

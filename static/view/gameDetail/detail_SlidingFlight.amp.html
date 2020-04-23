@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html amp lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>detail.html</title>
+    <link rel="canonical" href="detail_SlidingFlight.amp.html">
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style><noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            background: #f5f5f5;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        .detail-all {
+            max-width: 375px;
+            min-height: 100%;
+            margin: 0 auto;
+            padding: 0 15px;
+            box-sizing: border-box;
+        }
+
+        .detail-title {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            padding: 15px 0 14px 0;
+        }
+
+        .detail-title amp-img {
+            width: 20px;
+            height: 20px;
+            object-fit: cover;
+        }
+
+        .detail-title div {
+            width: 100%;
+            height: 14px;
+            line-height: 14px;
+            font-size: 18px;
+            font-weight: 800;
+            text-align: center;
+        }
+
+        .detail-advertise {
+            width: 100%;
+            height: 100px;
+            margin-bottom: 15px;
+        }
+
+        .detail-advertise amp-img {
+            width: inherit;
+            height: inherit;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        .detail-banner {
+            width: 100%;
+            box-sizing: border-box;
+            margin: 0 0 15px 0;
+        }
+        .detail-banner amp-img{
+            border-radius:5px;
+        }
+        .detail-first {
+            width: 100%;
+            height: 130px;
+            margin-bottom: 5px;
+        }
+
+        .detail-first amp-img {
+            position: relative;
+            left: 10px;
+            z-index: 2;
+            width: 50%;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        .detail-bg {
+            position: relative;
+            top: -114px;
+            z-index: 1;
+            width: 100%;
+            height: 120px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 1px 3px 0px rgba(17, 17, 17, 0.12);
+        }
+
+        .detail-right {
+            position: relative;
+            left: 57%;
+            width: 43%;
+            height: inherit;
+        }
+
+        .detail-first-title {
+            height: 14px;
+            line-height: 14px;
+            font-size: 14px;
+            padding-top: 14.5px;
+            /* overflow:hidden */
+        }
+
+        .detail-play {
+            width: 68px;
+            height: 23px;
+            line-height: 20px;
+            background: rgba(87, 208, 222, 1);
+            border-radius: 12px;
+            font-size: 12px;
+            color: #fff;
+            text-align: center;
+        }
+
+
+        .instructions {
+            width: 100%;
+            height: 25px;
+            line-height: 25px;
+            background: #fff;
+            margin: 15px 0 10px 0;
+            border-radius: 13px;
+        }
+
+        .instructions-title {
+            font-family: PingFang SC;
+            font-size: 16px;
+            font-weight: bold;
+            margin-left: 16px;
+        }
+
+        .instruct-text {
+            width: 100%;
+            /* height: 76px; */
+            letter-spacing: -0.15px;
+            line-height: 18px;
+            /* padding-bottom: 5px; */
+            font-size: 12px;
+            text-indent: 17px;
+            box-sizing: border-box;
+        }
+
+        .detail-content {
+            width: 100%;
+            margin-bottom: 26px;
+        }
+
+        .detail-top {
+            width: 100%;
+            height: 150px;
+            margin-bottom: 5px;
+        }
+
+        .detail-top amp-img {
+            width: 100%;
+            height: 125px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .detail-top-flex {
+            position: relative;
+            top: -4px;
+            /* height: 25px; */
+            line-height: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 16px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+        }
+
+        .detail-bottom-flex {
+            display: flex;
+        }
+
+        .detail-bottom-first {
+            width: 100%;
+            /* height: 190px; */
+            margin-right: 10px;
+        }
+
+        .detail-bottom-second {
+            width: 100%;
+            /* height: 190px; */
+        }
+
+        .detail-bottom-first amp-img {
+            width: inherit;
+            height: 165px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .detail-bottom-second amp-img {
+            width: inherit;
+            height: 165px;
+            object-fit: cover;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .detail-bottom-title {
+            position: relative;
+            top: -4px;
+            /* height: 25px; */
+            line-height: 25px;
+            background: rgba(87, 208, 222, 1);
+            font-size: 14px;
+            color: #fff;
+            box-sizing: border-box;
+            border-radius: 0 0 5px 5px;
+            text-align: center;
+        }
+    </style>
+
+
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+</head>
+
+<body>
+    <div class="detail-all">
+        <div class="detail-title">
+            <a href="../../../index.amp.html">
+                <amp-img width="20" height="20" layout="responsive" src="../../assets/img/home.png" alt=""></amp-img>
+            </a>
+            <div>Game Details</div>
+        </div>
+
+        <!-- 广告位 -->
+        <!-- <div class="detail-advertise">
+            <img src="./view/first/detail_1.png" alt="">
+        </div> -->
+
+        <div class="detail-banner">
+            <amp-carousel width="300" height="169" type="slides" layout="responsive" autoplay delay="2000">
+                <amp-img width="300" height="169" src="../games/SlidingFlight/images/detail/detail_1.png"
+                    layout="responsive" alt=""></amp-img>
+                <amp-img width="300" height="169" src="../games/SlidingFlight/images/detail/detail_2.png"
+                    layout="responsive" alt=""></amp-img>
+                <amp-img width="300" height="169" src="../games/SlidingFlight/images/detail/detail_3.png"
+                    layout="responsive" alt="">
+                </amp-img>
+            </amp-carousel>
+        </div>
+
+
+        <div class="detail-first">
+            <a href="../games/SlidingFlight/game_SlidingFlight.html">
+                <amp-img width="128" height="128" layout="responsive" src="../games/SlidingFlight/images/icon.png"
+                    alt="">
+                </amp-img>
+                <div class="detail-bg">
+                    <div class="detail-right">
+                        <div class="detail-first-title">Sliding Flight</div>
+                        <div style="height:11px;line-height: 11px;font-size: 11px;margin-top: 15px;overflow:hidden;">
+                            Tag:
+                            Cut the rope
+                        </div>
+                        <div
+                            style="height:11px;line-height: 11px;font-size: 11px;margin: 5px 0 15px 0;overflow:hidden;">
+                            1200+</div>
+                        <div class="detail-play">Play now</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Game instructions模块 -->
+        <div class="instructions">
+            <div class="instructions-title">Game instructions</div>
+        </div>
+
+        <div class="instruct-text">
+            The game story tells that one day the western cowboy was hanged by the indians.God was not willing to accept
+            him,so the player needed to hit the cowboy.Accurately shoot on the rope,otherwise the cowboys may be damaged
+            twice.
+        </div>
+
+        <!-- Related games模块 -->
+        <div class="instructions">
+            <div class="instructions-title">Related games</div>
+        </div>
+
+        <div class="detail-content">
+            <div class="detail-top">
+                <a href="detail_SlowWarrior.amp.html">
+                    <amp-img width="128" height="128" layout="responsive" src="../games/SlowWarrior/images/icon.png"
+                        alt=""></amp-img>
+                    <div class="detail-top-flex">
+                        <div class="detail-top-title">Slow Warrior</div>
+                        <div>Detail</div>
+                    </div>
+                </a>
+            </div>
+            <div class="detail-bottom">
+                <div class="detail-bottom-flex">
+                    <div class="detail-bottom-first">
+                        <a href="detail_SpoofBoss.amp.html">
+                            <amp-img width="128" height="128" layout="responsive"
+                                src="../games/SpoofBoss/images/icon.png" alt=""></amp-img>
+                            <div class="detail-bottom-title">Spoof Boss</div>
+                        </a>
+                    </div>
+                    <div class="detail-bottom-second">
+                        <a href="detail_SquirrelNuts.amp.html">
+                            <amp-img width="128" height="128" layout="responsive"
+                                src="../games/SquirrelNuts/images/icon.png" alt=""></amp-img>
+                            <div class="detail-bottom-title">Squirrel Nuts</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

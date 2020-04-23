@@ -1,0 +1,1 @@
+ig.module("game.entities.canon.speedMeasure").requires("impact.entity").defines(function(){EntitySpeedMeasure=ig.Entity.extend({maxVel:{x:0,y:0},moveTimer:new ig.Timer,moveDelta:1,init:function(e,i,t){this.animSheet=new ig.AnimationSheet("media/media32/speedMeasure.png",64,224),this.size={x:64,y:224},this.addAnim("idle",1,[0]),this.parent(e,i,t)}})});

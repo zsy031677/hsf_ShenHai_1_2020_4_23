@@ -1,0 +1,67 @@
+﻿{
+"mc": {
+	"Charac_happy": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"Charac_happy0000","x":-55.8,"y":-157.8,"duration":4},
+			{"res":"Charac_happy0004","x":-62.8,"y":-154.8,"duration":3},
+			{"res":"Charac_happy0007","x":-87.8,"y":-157.8,"duration":4},
+			{"res":"Charac_happy0011","x":-95.8,"y":-160.8,"duration":4},
+			{"res":"Charac_happy0015","x":-95.8,"y":-160.8,"duration":4},
+			{"res":"Charac_happy0019","x":-95.8,"y":-160.8,"duration":3},
+			{"res":"Charac_happy0022","x":-55.8,"y":-154.8,"duration":4},
+			{"res":"Charac_happy0026","x":-50.8,"y":-157.8,"duration":5}
+		]
+	},
+	"Charac_idle": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"Charac_idle0000","x":-54.45,"y":-163.1,"duration":7},
+			{"res":"Charac_idle0007","x":-54.45,"y":-173.1,"duration":4},
+			{"res":"Charac_idle0011","x":-61.45,"y":-163.1,"duration":4},
+			{"res":"Charac_idle0015","x":-51.45,"y":-173.1,"duration":6},
+			{"res":"Charac_idle0021","x":-43.45,"y":-163.1,"duration":5}
+		]
+	},
+	"Charac_sad": {
+		"frameRate":24,
+		"labels": [
+		],
+		"frames": [
+			{"res":"Charac_sad0000","x":-56.5,"y":-145.85,"duration":4},
+			{"res":"Charac_sad0004","x":-62.5,"y":-149.85,"duration":4},
+			{"res":"Charac_sad0008","x":-52.5,"y":-146.85,"duration":4},
+			{"res":"Charac_sad0012","x":-56.5,"y":-145.85,"duration":4},
+			{"res":"Charac_sad0016","x":-62.5,"y":-149.85,"duration":4},
+			{"res":"Charac_sad0020","x":-52.5,"y":-146.85,"duration":4},
+			{"res":"Charac_sad0024","x":-56.5,"y":-145.85,"duration":4}
+		]
+	}
+},
+"res": {
+	"Charac_happy0000":{"x":0,"y":0,"w":139,"h":162},
+	"Charac_happy0004":{"x":139,"y":0,"w":143,"h":159},
+	"Charac_happy0007":{"x":282,"y":0,"w":176,"h":181},
+	"Charac_happy0011":{"x":458,"y":0,"w":192,"h":192},
+	"Charac_happy0015":{"x":650,"y":0,"w":192,"h":192},
+	"Charac_happy0019":{"x":0,"y":192,"w":192,"h":192},
+	"Charac_happy0022":{"x":192,"y":192,"w":136,"h":145},
+	"Charac_happy0026":{"x":328,"y":192,"w":134,"h":162},
+	"Charac_idle0000":{"x":462,"y":192,"w":131,"h":166},
+	"Charac_idle0007":{"x":593,"y":192,"w":126,"h":176},
+	"Charac_idle0011":{"x":719,"y":192,"w":138,"h":166},
+	"Charac_idle0015":{"x":857,"y":192,"w":123,"h":176},
+	"Charac_idle0021":{"x":0,"y":384,"w":120,"h":167},
+	"Charac_sad0000":{"x":120,"y":384,"w":109,"h":149},
+	"Charac_sad0004":{"x":229,"y":384,"w":110,"h":152},
+	"Charac_sad0008":{"x":339,"y":384,"w":104,"h":164},
+	"Charac_sad0012":{"x":443,"y":384,"w":105,"h":148},
+	"Charac_sad0016":{"x":548,"y":384,"w":110,"h":153},
+	"Charac_sad0020":{"x":658,"y":384,"w":104,"h":149},
+	"Charac_sad0024":{"x":762,"y":384,"w":105,"h":163}
+}
+}

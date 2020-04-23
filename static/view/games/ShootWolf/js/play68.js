@@ -1,0 +1,1 @@
+function play68_init(){updateShare(0,0)}function play68_submitScore(e,a){updateShareScore(e,a),setTimeout(function(){Play68.shareFriend()},100)}function updateShare(e,a){shareTitle=e>0?"我的小红帽干掉了"+e+"个色狼，得到了"+a+"分，你能超过我吗？":"我在玩#愤怒的小红帽#，小红帽终于能逆袭愤怒暴打色狼了！",appid="",Play68.setShareInfo(shareTitle,"愤怒的小红帽!")}function updateShareScore(e,a){updateShare(e,a)}

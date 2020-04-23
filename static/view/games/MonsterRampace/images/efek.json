@@ -1,0 +1,150 @@
+{
+"frames": {
+	"asap1.png": {
+		"frame": {"x":301, "y":476, "w":46, "h":43},
+		"spriteSourceSize": {"x":6,"y":6,"w":68,"h":65},
+		"sourceSize": {"w":68,"h":65}
+	},
+	"asap2.png": {
+		"frame": {"x":301, "y":428, "w":47, "h":47},
+		"spriteSourceSize": {"x":6,"y":6,"w":68,"h":68},
+		"sourceSize": {"w":68,"h":68}
+	},
+	"asap3.png": {
+		"frame": {"x":182, "y":778, "w":65, "h":54},
+		"spriteSourceSize": {"x":6,"y":6,"w":86,"h":74},
+		"sourceSize": {"w":86,"h":74}
+	},
+	"asap4.png": {
+		"frame": {"x":291, "y":560, "w":60, "h":60},
+		"spriteSourceSize": {"x":6,"y":6,"w":84,"h":80},
+		"sourceSize": {"w":84,"h":80}
+	},
+	"bangkai1.png": {
+		"frame": {"x":0, "y":166, "w":330, "h":157},
+		"spriteSourceSize": {"x":0,"y":0,"w":330,"h":157},
+		"sourceSize": {"w":330,"h":157}
+	},
+	"bangkai2.png": {
+		"frame": {"x":0, "y":560, "w":290, "h":117},
+		"spriteSourceSize": {"x":0,"y":0,"w":290,"h":117},
+		"sourceSize": {"w":290,"h":117}
+	},
+	"bangkai3.png": {
+		"frame": {"x":0, "y":324, "w":300, "h":235},
+		"spriteSourceSize": {"x":0,"y":0,"w":300,"h":235},
+		"sourceSize": {"w":300,"h":235}
+	},
+	"bangkai4.png": {
+		"frame": {"x":0, "y":678, "w":258, "h":99},
+		"spriteSourceSize": {"x":0,"y":0,"w":258,"h":99},
+		"sourceSize": {"w":258,"h":99}
+	},
+	"bangkai5.png": {
+		"frame": {"x":0, "y":836, "w":146, "h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":146,"h":103},
+		"sourceSize": {"w":146,"h":103}
+	},
+	"bangkai6.png": {
+		"frame": {"x":0, "y":0, "w":384, "h":165},
+		"spriteSourceSize": {"x":0,"y":0,"w":384,"h":165},
+		"sourceSize": {"w":384,"h":165}
+	},
+	"efekPeluru.png": {
+		"frame": {"x":259, "y":757, "w":33, "h":20},
+		"spriteSourceSize": {"x":5,"y":5,"w":48,"h":35},
+		"sourceSize": {"w":48,"h":35}
+	},
+	"efekTembak0001.png": {
+		"frame": {"x":0, "y":940, "w":95, "h":75},
+		"spriteSourceSize": {"x":12,"y":30,"w":129,"h":122},
+		"sourceSize": {"w":129,"h":122}
+	},
+	"efekTembak0002.png": {
+		"frame": {"x":252, "y":778, "w":99, "h":91},
+		"spriteSourceSize": {"x":14,"y":14,"w":129,"h":122},
+		"sourceSize": {"w":129,"h":122}
+	},
+	"efekTembak0003.png": {
+		"frame": {"x":147, "y":836, "w":104, "h":101},
+		"spriteSourceSize": {"x":13,"y":6,"w":129,"h":122},
+		"sourceSize": {"w":129,"h":122}
+	},
+	"efekTembak0004.png": {
+		"frame": {"x":259, "y":678, "w":78, "h":78},
+		"spriteSourceSize": {"x":18,"y":22,"w":129,"h":122},
+		"sourceSize": {"w":129,"h":122}
+	},
+	"peluru2.png": {
+		"frame": {"x":48, "y":1016, "w":41, "h":4},
+		"spriteSourceSize": {"x":0,"y":0,"w":41,"h":4},
+		"sourceSize": {"w":41,"h":4}
+	},
+	"peluru6.png": {
+		"frame": {"x":0, "y":1016, "w":47, "h":4},
+		"spriteSourceSize": {"x":0,"y":0,"w":47,"h":4},
+		"sourceSize": {"w":47,"h":4}
+	},
+	"peluru7.png": {
+		"frame": {"x":147, "y":998, "w":21, "h":21},
+		"spriteSourceSize": {"x":1,"y":1,"w":22,"h":22},
+		"sourceSize": {"w":22,"h":22}
+	},
+	"peluru8.png": {
+		"frame": {"x":96, "y":998, "w":50, "h":11},
+		"spriteSourceSize": {"x":0,"y":0,"w":50,"h":11},
+		"sourceSize": {"w":50,"h":11}
+	},
+	"peluru9.png": {
+		"frame": {"x":0, "y":778, "w":181, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":181,"h":57},
+		"sourceSize": {"w":181,"h":57}
+	},
+	"puing1.png": {
+		"frame": {"x":273, "y":929, "w":70, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":70,"h":57},
+		"sourceSize": {"w":70,"h":57}
+	},
+	"puing2.png": {
+		"frame": {"x":331, "y":166, "w":31, "h":93},
+		"spriteSourceSize": {"x":0,"y":0,"w":31,"h":93},
+		"sourceSize": {"w":31,"h":93}
+	},
+	"puing3.png": {
+		"frame": {"x":252, "y":870, "w":78, "h":58},
+		"spriteSourceSize": {"x":0,"y":0,"w":78,"h":58},
+		"sourceSize": {"w":78,"h":58}
+	},
+	"puing4.png": {
+		"frame": {"x":190, "y":938, "w":82, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":82,"h":48},
+		"sourceSize": {"w":82,"h":48}
+	},
+	"puing5.png": {
+		"frame": {"x":301, "y":324, "w":53, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":53,"h":43},
+		"sourceSize": {"w":53,"h":43}
+	},
+	"puing6.png": {
+		"frame": {"x":96, "y":940, "w":93, "h":57},
+		"spriteSourceSize": {"x":0,"y":0,"w":93,"h":57},
+		"sourceSize": {"w":93,"h":57}
+	},
+	"tembak0001.png": {
+		"frame": {"x":301, "y":368, "w":47, "h":59},
+		"spriteSourceSize": {"x":7,"y":0,"w":54,"h":59},
+		"sourceSize": {"w":54,"h":59}
+	},
+	"tembak0002.png": {
+		"frame": {"x":291, "y":621, "w":53, "h":48},
+		"spriteSourceSize": {"x":0,"y":6,"w":54,"h":59},
+		"sourceSize": {"w":54,"h":59}
+	}
+
+},
+"meta": {
+	"image": "efek.png",
+	"size": {"w": 512, "h": 1024},
+	"scale": "1"
+}
+}

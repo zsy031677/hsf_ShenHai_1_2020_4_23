@@ -1,0 +1,138 @@
+{
+  "ID": "19f7bf3c-ac90-49bd-8fd9-fbd935973ff5",
+  "Version": "2.3.0.1",
+  "Name": "st3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 557,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "s3.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 11.5442,
+              "Y": 5.5709
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.012,
+              "Y": 0.0087
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 11.5442,
+            "RightMargin": -11.5442,
+            "TopMargin": -5.5709,
+            "BottomMargin": 5.5709,
+            "Tag": 561,
+            "ActionTag": -1160690439,
+            "Size": {
+              "X": 960.0,
+              "Y": 640.0
+            },
+            "Name": "ProjectNode_1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "start/img/g3.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 63,
+            "Scale9Height": 37,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 912.0557,
+              "Y": 35.7958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9501,
+              "Y": 0.0559
+            },
+            "PreSize": {
+              "X": 0.0969,
+              "Y": 0.0922
+            },
+            "LeftMargin": 865.5557,
+            "RightMargin": 1.4443,
+            "TopMargin": 574.7042,
+            "BottomMargin": 6.2958,
+            "Tag": 988,
+            "ActionTag": 434764041,
+            "Size": {
+              "X": 93.0,
+              "Y": 59.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "s3.json",
+        "start/img/g3.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

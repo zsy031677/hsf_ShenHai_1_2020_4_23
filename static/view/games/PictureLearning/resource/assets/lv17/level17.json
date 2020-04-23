@@ -1,0 +1,10 @@
+{
+	"desc":"none",
+	"dataList":[
+		{"name":"sea"},
+		{"name":"mountain"},
+		{"name":"city"},
+		{"name":"town"},
+		{"name":"street"}
+	]
+}

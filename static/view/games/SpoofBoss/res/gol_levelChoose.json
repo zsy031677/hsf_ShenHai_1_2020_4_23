@@ -1,0 +1,804 @@
+{
+  "ID": "0e93181e-ba70-4a1e-af5a-2a99cf4bdf3e",
+  "Version": "2.3.0.1",
+  "Name": "gol_levelChoose",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1721,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/zongguan.png",
+              "Plist": ""
+            },
+            "Scale9Width": 962,
+            "Scale9Height": 640,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 474.7767,
+              "Y": 324.9488
+            },
+            "Scale": {
+              "ScaleX": 1.0231,
+              "ScaleY": 1.0231
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4946,
+              "Y": 0.5077
+            },
+            "PreSize": {
+              "X": 1.0021,
+              "Y": 1.0
+            },
+            "LeftMargin": -6.2233,
+            "RightMargin": 4.2233,
+            "TopMargin": -4.9488,
+            "BottomMargin": 4.9488,
+            "Tag": 1763,
+            "ActionTag": 984640372,
+            "Size": {
+              "X": 962.0,
+              "Y": 640.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 926,
+            "Scale9Height": 619,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 143.4192,
+              "Y": 506.4507
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1494,
+              "Y": 0.7913
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3141
+            },
+            "LeftMargin": -6.5808,
+            "RightMargin": 666.5808,
+            "TopMargin": 33.0493,
+            "BottomMargin": 405.9507,
+            "Tag": 23,
+            "ActionTag": -1481668018,
+            "Size": {
+              "X": 300.0,
+              "Y": 201.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 926,
+            "Scale9Height": 617,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 365.701,
+              "Y": 506.8503
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3809,
+              "Y": 0.792
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": 215.701,
+            "RightMargin": 444.299,
+            "TopMargin": 33.1497,
+            "BottomMargin": 406.8503,
+            "Tag": 24,
+            "ActionTag": -1752275275,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-3.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/3.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 926,
+            "Scale9Height": 617,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.9835,
+              "Y": 506.8503
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6177,
+              "Y": 0.792
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": 442.9835,
+            "RightMargin": 217.0165,
+            "TopMargin": 33.1497,
+            "BottomMargin": 406.8503,
+            "Tag": 25,
+            "ActionTag": -1117145444,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-4.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/4.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 930,
+            "Scale9Height": 618,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 815.2638,
+              "Y": 504.6777
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8492,
+              "Y": 0.7886
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": 665.2638,
+            "RightMargin": -5.2638,
+            "TopMargin": 35.3223,
+            "BottomMargin": 404.6777,
+            "Tag": 26,
+            "ActionTag": -1515914542,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-5.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/5.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 929,
+            "Scale9Height": 618,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 143.4192,
+              "Y": 349.0095
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1494,
+              "Y": 0.5453
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": -6.5808,
+            "RightMargin": 666.5808,
+            "TopMargin": 190.9905,
+            "BottomMargin": 249.0095,
+            "Tag": 27,
+            "ActionTag": 1894917966,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-6.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/6.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 927,
+            "Scale9Height": 617,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 365.7011,
+              "Y": 349.0095
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3809,
+              "Y": 0.5453
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": 215.7011,
+            "RightMargin": 444.2989,
+            "TopMargin": 190.9905,
+            "BottomMargin": 249.0095,
+            "Tag": 28,
+            "ActionTag": -123546424,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-7.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/7.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 928,
+            "Scale9Height": 621,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.9835,
+              "Y": 348.6594
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6177,
+              "Y": 0.5448
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3141
+            },
+            "LeftMargin": 442.9835,
+            "RightMargin": 217.0165,
+            "TopMargin": 190.8406,
+            "BottomMargin": 248.1594,
+            "Tag": 29,
+            "ActionTag": 2067200715,
+            "Size": {
+              "X": 300.0,
+              "Y": 201.0
+            },
+            "Name": "Button_7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-8.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/8.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 928,
+            "Scale9Height": 616,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 815.2638,
+              "Y": 349.3594
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8492,
+              "Y": 0.5459
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3109
+            },
+            "LeftMargin": 665.2638,
+            "RightMargin": -5.2638,
+            "TopMargin": 191.1406,
+            "BottomMargin": 249.8594,
+            "Tag": 30,
+            "ActionTag": -2022606957,
+            "Size": {
+              "X": 300.0,
+              "Y": 199.0
+            },
+            "Name": "Button_8",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-9.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/9.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 929,
+            "Scale9Height": 622,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 365.7008,
+              "Y": 190.3322
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3809,
+              "Y": 0.2974
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3141
+            },
+            "LeftMargin": 215.7008,
+            "RightMargin": 444.2992,
+            "TopMargin": 349.1678,
+            "BottomMargin": 89.8322,
+            "Tag": 31,
+            "ActionTag": -1287511581,
+            "Size": {
+              "X": 300.0,
+              "Y": 201.0
+            },
+            "Name": "Button_9",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/1-10.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "guoguan/img/10.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 927,
+            "Scale9Height": 616,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 592.9835,
+              "Y": 190.9321
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6177,
+              "Y": 0.2983
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3125
+            },
+            "LeftMargin": 442.9835,
+            "RightMargin": 217.0165,
+            "TopMargin": 349.0679,
+            "BottomMargin": 90.9321,
+            "Tag": 32,
+            "ActionTag": 606758127,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "Button_10",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "guoguan/img/8.png",
+        "guoguan/img/1-8.png",
+        "guoguan/img/5.png",
+        "guoguan/img/1-5.png",
+        "guoguan/img/3.png",
+        "guoguan/img/1-2.png",
+        "guoguan/img/zongguan.png",
+        "guoguan/img/9.png",
+        "guoguan/img/1-9.png",
+        "guoguan/img/6.png",
+        "guoguan/img/1-6.png",
+        "guoguan/img/1-4.png",
+        "guoguan/img/2.png",
+        "guoguan/img/1.png",
+        "guoguan/img/10.png",
+        "guoguan/img/1-10.png",
+        "guoguan/img/7.png",
+        "guoguan/img/1-7.png",
+        "guoguan/img/4.png",
+        "guoguan/img/1-3.png",
+        "guoguan/img/1-1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

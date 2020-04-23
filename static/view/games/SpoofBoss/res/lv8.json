@@ -1,0 +1,512 @@
+{
+  "ID": "abd896c7-780d-4f72-97e7-0dbf27d3f3cd",
+  "Version": "2.3.0.1",
+  "Name": "lv8",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 0.3333,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 25,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/87.png",
+              "Plist": ""
+            },
+            "Scale9Width": 960,
+            "Scale9Height": 640,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 478.9135,
+              "Y": 324.6404
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4989,
+              "Y": 0.5073
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.0865,
+            "RightMargin": 1.0865,
+            "TopMargin": -4.6404,
+            "BottomMargin": 4.6404,
+            "Tag": 26,
+            "ActionTag": 649258934,
+            "Size": {
+              "X": 960.0,
+              "Y": 640.0
+            },
+            "Name": "beijing",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/89.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 479.852,
+              "Y": 176.2655
+            },
+            "Scale": {
+              "ScaleX": 1.0065,
+              "ScaleY": 1.0065
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4998,
+              "Y": 0.2754
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -3.148,
+            "RightMargin": -2.852,
+            "TopMargin": 287.2345,
+            "BottomMargin": -0.2345,
+            "Tag": 40,
+            "ActionTag": -1211136907,
+            "Size": {
+              "X": 966.0,
+              "Y": 353.0
+            },
+            "Name": "lu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/810.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 485.075,
+              "Y": 536.6046
+            },
+            "Scale": {
+              "ScaleX": 0.8597,
+              "ScaleY": 0.8597
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5053,
+              "Y": 0.8384
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 46.575,
+            "RightMargin": 36.425,
+            "TopMargin": -3.1046,
+            "BottomMargin": 430.1046,
+            "Tag": 39,
+            "ActionTag": 410128870,
+            "Size": {
+              "X": 877.0,
+              "Y": 213.0
+            },
+            "Name": "yun",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lv8_car1.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 0.3333,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 446.4427,
+              "Y": 111.8228
+            },
+            "Scale": {
+              "ScaleX": 0.6313,
+              "ScaleY": 0.6313
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.465,
+              "Y": 0.1747
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 446.4427,
+            "RightMargin": 513.5573,
+            "TopMargin": 528.1772,
+            "BottomMargin": 111.8228,
+            "Tag": 433,
+            "ActionTag": 1283581431,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "car1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "InnerActionSpeed": 0.0,
+            "VisibleForFrame": false,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 508.3519,
+              "Y": 161.9298
+            },
+            "Scale": {
+              "ScaleX": 0.5065,
+              "ScaleY": 0.5627
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5295,
+              "Y": 0.253
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 508.3519,
+            "RightMargin": 451.6481,
+            "TopMargin": 478.0702,
+            "BottomMargin": 161.9298,
+            "Tag": 446,
+            "ActionTag": -2044251814,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "baoza",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/86.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 265,
+            "Scale9Height": 117,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -171.3274,
+              "Y": 551.3796
+            },
+            "Scale": {
+              "ScaleX": 0.7501,
+              "ScaleY": 0.7501
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1785,
+              "Y": 0.8615
+            },
+            "PreSize": {
+              "X": 0.3073,
+              "Y": 0.2172
+            },
+            "LeftMargin": -318.8274,
+            "RightMargin": 983.8274,
+            "TopMargin": 19.1204,
+            "BottomMargin": 481.8796,
+            "Tag": 158,
+            "ActionTag": -783566338,
+            "Size": {
+              "X": 295.0,
+              "Y": 139.0
+            },
+            "Name": "b1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/88.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 123,
+            "Scale9Height": 81,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -194.8411,
+              "Y": 404.6008
+            },
+            "Scale": {
+              "ScaleX": 0.9541,
+              "ScaleY": 0.9541
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.203,
+              "Y": 0.6322
+            },
+            "PreSize": {
+              "X": 0.1594,
+              "Y": 0.1609
+            },
+            "LeftMargin": -271.3411,
+            "RightMargin": 1078.3411,
+            "TopMargin": 183.8992,
+            "BottomMargin": 353.1008,
+            "Tag": 159,
+            "ActionTag": 750106364,
+            "Size": {
+              "X": 153.0,
+              "Y": 103.0
+            },
+            "Name": "b2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "level8/no8/811.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1089.363,
+              "Y": 150.7943
+            },
+            "Scale": {
+              "ScaleX": 0.161,
+              "ScaleY": 0.2032
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.1348,
+              "Y": 0.2356
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 659.363,
+            "RightMargin": -559.363,
+            "TopMargin": 211.7057,
+            "BottomMargin": -126.7057,
+            "Tag": 160,
+            "ActionTag": 199476075,
+            "Size": {
+              "X": 860.0,
+              "Y": 555.0
+            },
+            "Name": "boza",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 440.39,
+              "Y": 190.8532
+            },
+            "Scale": {
+              "ScaleX": 5.7817,
+              "ScaleY": 3.7772
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4587,
+              "Y": 0.2982
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 417.39,
+            "RightMargin": 496.61,
+            "TopMargin": 431.1468,
+            "BottomMargin": 172.8532,
+            "Tag": 152,
+            "ActionTag": 1807044024,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "b3",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Press.png",
+        "level8/no8/811.png",
+        "level8/no8/86.png",
+        "Default/Button_Disable.png",
+        "lv8_car1.json",
+        "level8/no8/88.png",
+        "level8/no8/89.png",
+        "Default/Button_Normal.png",
+        "level8/no8/810.png",
+        "level8/no8/87.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

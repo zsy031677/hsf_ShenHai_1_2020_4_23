@@ -1,0 +1,135 @@
+{
+"frames": {
+	"eatthem.png": {
+		"frame": {"x":739, "y":972, "w":253, "h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":262,"h":100},
+		"sourceSize": {"w":262,"h":100}
+	},
+	"finish.png": {
+		"frame": {"x":902, "y":0, "w":191, "h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":202,"h":100},
+		"sourceSize": {"w":202,"h":100}
+	},
+	"next.png": {
+		"frame": {"x":761, "y":662, "w":173, "h":69},
+		"spriteSourceSize": {"x":10,"y":10,"w":200,"h":93},
+		"sourceSize": {"w":200,"h":93}
+	},
+	"panahTutor.png": {
+		"frame": {"x":902, "y":101, "w":94, "h":142},
+		"spriteSourceSize": {"x":14,"y":13,"w":128,"h":171},
+		"sourceSize": {"w":128,"h":171}
+	},
+	"tutorAngle1.png": {
+		"frame": {"x":652, "y":1754, "w":641, "h":97},
+		"spriteSourceSize": {"x":0,"y":0,"w":641,"h":97},
+		"sourceSize": {"w":641,"h":97}
+	},
+	"tutorAngle2.png": {
+		"frame": {"x":652, "y":1852, "w":633, "h":111},
+		"spriteSourceSize": {"x":0,"y":0,"w":643,"h":114},
+		"sourceSize": {"w":643,"h":114}
+	},
+	"tutorDown1.png": {
+		"frame": {"x":674, "y":1668, "w":382, "h":74},
+		"spriteSourceSize": {"x":0,"y":0,"w":390,"h":75},
+		"sourceSize": {"w":390,"h":75}
+	},
+	"tutorDown2.png": {
+		"frame": {"x":674, "y":1445, "w":413, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":421,"h":120},
+		"sourceSize": {"w":421,"h":120}
+	},
+	"tutorFire1.png": {
+		"frame": {"x":0, "y":1316, "w":673, "h":219},
+		"spriteSourceSize": {"x":0,"y":0,"w":680,"h":219},
+		"sourceSize": {"w":680,"h":219}
+	},
+	"tutorFire2.png": {
+		"frame": {"x":0, "y":1536, "w":673, "h":217},
+		"spriteSourceSize": {"x":0,"y":0,"w":680,"h":217},
+		"sourceSize": {"w":680,"h":217}
+	},
+	"tutorGrab1.png": {
+		"frame": {"x":0, "y":930, "w":738, "h":163},
+		"spriteSourceSize": {"x":0,"y":0,"w":745,"h":163},
+		"sourceSize": {"w":745,"h":163}
+	},
+	"tutorGrab2.png": {
+		"frame": {"x":0, "y":760, "w":738, "h":169},
+		"spriteSourceSize": {"x":0,"y":0,"w":745,"h":169},
+		"sourceSize": {"w":745,"h":169}
+	},
+	"tutorHealth.png": {
+		"frame": {"x":739, "y":760, "w":305, "h":105},
+		"spriteSourceSize": {"x":0,"y":0,"w":305,"h":105},
+		"sourceSize": {"w":305,"h":105}
+	},
+	"tutorHit1.png": {
+		"frame": {"x":0, "y":1215, "w":699, "h":100},
+		"spriteSourceSize": {"x":0,"y":0,"w":699,"h":100},
+		"sourceSize": {"w":699,"h":100}
+	},
+	"tutorHit2.png": {
+		"frame": {"x":0, "y":1094, "w":699, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":699,"h":120},
+		"sourceSize": {"w":699,"h":120}
+	},
+	"tutorJump.png": {
+		"frame": {"x":700, "y":1215, "w":341, "h":74},
+		"spriteSourceSize": {"x":0,"y":0,"w":348,"h":75},
+		"sourceSize": {"w":348,"h":75}
+	},
+	"tutorJump2.png": {
+		"frame": {"x":700, "y":1094, "w":379, "h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":386,"h":120},
+		"sourceSize": {"w":386,"h":120}
+	},
+	"tutorMove.png": {
+		"frame": {"x":0, "y":391, "w":901, "h":270},
+		"spriteSourceSize": {"x":0,"y":0,"w":901,"h":270},
+		"sourceSize": {"w":901,"h":270}
+	},
+	"tutorMove1.png": {
+		"frame": {"x":652, "y":1964, "w":495, "h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":525,"h":75},
+		"sourceSize": {"w":525,"h":75}
+	},
+	"tutorMove2.png": {
+		"frame": {"x":0, "y":662, "w":760, "h":97},
+		"spriteSourceSize": {"x":0,"y":0,"w":768,"h":97},
+		"sourceSize": {"w":768,"h":97}
+	},
+	"tutorMoveb.png": {
+		"frame": {"x":0, "y":1754, "w":651, "h":270},
+		"spriteSourceSize": {"x":0,"y":0,"w":651,"h":270},
+		"sourceSize": {"w":651,"h":270}
+	},
+	"tutorMovec.png": {
+		"frame": {"x":0, "y":0, "w":901, "h":390},
+		"spriteSourceSize": {"x":0,"y":0,"w":901,"h":390},
+		"sourceSize": {"w":901,"h":390}
+	},
+	"tutorObj.png": {
+		"frame": {"x":674, "y":1566, "w":401, "h":101},
+		"spriteSourceSize": {"x":0,"y":0,"w":401,"h":101},
+		"sourceSize": {"w":401,"h":101}
+	},
+	"tutorStar.png": {
+		"frame": {"x":674, "y":1316, "w":416, "h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":416,"h":128},
+		"sourceSize": {"w":416,"h":128}
+	},
+	"tutorTimer.png": {
+		"frame": {"x":739, "y":866, "w":305, "h":105},
+		"spriteSourceSize": {"x":0,"y":0,"w":305,"h":105},
+		"sourceSize": {"w":305,"h":105}
+	}
+
+},
+"meta": {
+	"image": "tutor.png",
+	"size": {"w": 2048, "h": 2048},
+	"scale": "1"
+}
+}
